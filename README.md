@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a202645f-19c5-4516-b9e8-499fa4b82cb8/deploy-status)](https://app.netlify.com/sites/hungry-yalow-863ae9/deploys)
+
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with meghna hugo theme by following this easy steps (No Coding Required)
 
